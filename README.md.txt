@@ -1,0 +1,1 @@
+Testes de sistema manual em aplicativos móveis, executados para estudos.
